@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>405917351458-m7o95ocuuhoo19ub93l6d05l9mugs1j0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.405917351458-m7o95ocuuhoo19ub93l6d05l9mugs1j0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4wsnGy6MiPp9YYsYEPAmVVKOyBkcbOSs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>405917351458</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>myapps.Keeper</string>
+	<key>PROJECT_ID</key>
+	<string>keeper-a7f92</string>
+	<key>STORAGE_BUCKET</key>
+	<string>keeper-a7f92.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:405917351458:ios:0dbfedeec168dae8ff147b</string>
+	<key>DATABASE_URL</key>
+	<string>https://keeper-a7f92.firebaseio.com</string>
+</dict>
+</plist>
