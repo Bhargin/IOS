@@ -1,1 +1,1 @@
-Hi, This is an IOS app built using Firebase. Please note that Firebase Pods folder might not be uploaded due to it's very large lenght.
+Hi, This is an IOS app built using Firebase. Please note that Firebase Pods folder might not be uploaded due to it's very large lenght. Please refer to the Podfile so see what Firebase libraries are imported in the project.
